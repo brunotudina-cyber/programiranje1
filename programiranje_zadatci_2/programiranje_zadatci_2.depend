@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1791396933 source:c:\users\ucenik\desktop\programiranje_zadatci_2\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+
